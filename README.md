@@ -1,20 +1,33 @@
 # My likes
 
-<!-- ![preview](./.github/preview.png)
-
-> Trilha Explorer
-
-Projeto construído do evento Next Level Week da Rocketseat.
-
-[🔗 Clique aqui para acessar](https://maykbrito.github.io/nlw-esports-explorer/) -->
+Project developed inspired by the NLW event.
 
 
-## 🛠 Tecnologias
+## Demonstration
 
-- HTML
+<p align="center">
+<img src=".github/my-likes.gif">
+</p>
+
+[🔗 Click here to access](https://ricardodev10.github.io/my-likes/)
+
+
+## 🛠 Stack used
+
+- HTML 
 - CSS
-- Git e Github
 
-## 💛 Contato
 
-ricardodev10@gmail.com
+## 📈 Improvements
+
+Refactorings, performance and accessibility.
+
+
+## 🙂 Feedback
+
+If you have any feedback, please send it to me at ricardodev10@yahoo.com
+
+
+## 💛 Author
+
+- [@ricardodev10](https://www.github.com/ricardodev10)
