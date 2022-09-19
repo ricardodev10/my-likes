@@ -4,7 +4,7 @@ A little show of entertainment I like.
 Project developed inspired by the NLW event.
 
 
-## Demonstration
+## 💁🏻‍♂️ Demonstration
 
 <p align="center">
 <img src=".github/my-likes.gif">
