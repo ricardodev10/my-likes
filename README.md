@@ -30,4 +30,4 @@ If you have any feedback, please send it to me at ricardodev10@yahoo.com
 
 ## 💛 Author
 
-- [@ricardodev10](https://www.github.com/ricardodev10)
+- [Ricardo Junior](https://www.linkedin.com/in/ricardodev10/)
