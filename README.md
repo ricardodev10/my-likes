@@ -1,5 +1,6 @@
 # My likes
 
+A little show of entertainment I like.
 Project developed inspired by the NLW event.
 
 
@@ -8,8 +9,6 @@ Project developed inspired by the NLW event.
 <p align="center">
 <img src=".github/my-likes.gif">
 </p>
-
-[🔗 Click here to access](https://ricardodev10.github.io/my-likes/)
 
 
 ## 🛠 Stack used
