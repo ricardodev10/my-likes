@@ -15,6 +15,7 @@ Project developed inspired by the NLW event.
 
 - HTML 
 - CSS
+- JavaScript
 
 
 ## 📈 Improvements

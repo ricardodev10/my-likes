@@ -108,6 +108,7 @@ section ul li:hover {
 .games-list img,
 .movies-list img,
 .series-list img,
+.animes-list img,
 .books-list img {
     width: 90px;
     border-radius: 8px;
@@ -187,4 +188,14 @@ main section:nth-child(6) {
     100% {
         filter: hue-rotate(360deg);
     }
+}
+
+/* swiper */
+section {
+    overflow: hidden;
+}
+
+.swiper-wrapper {
+    flex-wrap: nowrap;
+    /* gap: 0; */
 }
