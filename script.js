@@ -3,13 +3,13 @@ new Swiper(".mySwiper", {
     breakpoints: {
         300: {
             slidesPerView: 2,
-            spaceBetween: -10,
-        },
-        400: {
-            slidesPerView: 3,
             spaceBetween: -50,
         },
-        640: {
+        375: {
+            slidesPerView: 3,
+            spaceBetween: -30,
+        },
+        500: {
             slidesPerView: 4,
             spaceBetween: -50,
         }
