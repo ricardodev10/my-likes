@@ -159,6 +159,10 @@ main section:nth-child(6) {
     animation-delay: 1.5s;
 }
 
+main section:nth-child(7) {
+    animation-delay: 1.8s;
+}
+
 @keyframes fromTop {
     from {
         opacity: 0;
